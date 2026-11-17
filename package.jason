@@ -1,1 +1,11 @@
-
+{
+    "name": "clinica-api",
+    "versio": "1.0.0",
+    "private": true, 
+    "dependencies": {
+        "express": "^4.21.2",
+        "myslq" : "^2.18.1",
+        "loadash" : "4.17.15",
+        "minimist": "1.2.0"
+        }
+}
